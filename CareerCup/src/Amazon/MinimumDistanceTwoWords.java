@@ -1,5 +1,6 @@
 package Amazon;
 import java.util.*;
+
 public class MinimumDistanceTwoWords {
 
 	public static void main(String[] args) {
