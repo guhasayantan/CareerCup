@@ -11,7 +11,7 @@ public class ReverseString {
 			char[] a= word.toCharArray();
 			int left, right =0;
 			right = a.length -1;
-			for(left =0; left< right;left++, right--)
+			for(left =0; left < right;left++, right--)
 			{
 				char temp= a[left];
 				a[left]=a[right];
